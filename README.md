@@ -1,5 +1,8 @@
 # MachineLearningTheory
-机器学习经典算法实现
+机器学习经典算法的原理与实现
+    我要开坑了。。。
+    逻辑回归，决策树，朴素贝叶斯，KNN，SVM，随机森林
+    CNN,DNN,RNN,LSTM,XBG,LGB,GBDT
 
 - KNN
   + 项目案例1: 优化约会网站的配对效果
