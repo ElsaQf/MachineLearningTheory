@@ -3,12 +3,16 @@
     我要开坑了。。。
     逻辑回归，决策树，朴素贝叶斯，KNN，SVM，随机森林, xgboost
     CNN,DNN,RNN,LSTM,XBG,LGB,GBDT
+    fastText, textCNN
+    BERT, XLNet
 ### 统计学知识点复习
     置信区间，假设检验，ABTest,流量分配
 ### 推荐系统学习
 #### 书籍
     《推荐系统实践》项亮 (Reading)
 ### 知识图谱 
+
+
     
     
 - KNN
