@@ -5,6 +5,7 @@
     CNN,DNN,RNN,LSTM,XBG,LGB,GBDT
     fastText, textCNN
     BERT, XLNet
+    word2vec -> ELMo -> BERT
 ### 统计学知识点复习
     置信区间，假设检验，ABTest,流量分配
 ### 推荐系统学习
