@@ -6,6 +6,7 @@
     fastText, textCNN
     BERT, XLNet
     word2vec -> ELMo -> BERT
+    《统计学习方法》看原理，做例题
 ### 统计学知识点复习
     置信区间，假设检验，ABTest,流量分配
 ### 推荐系统学习
