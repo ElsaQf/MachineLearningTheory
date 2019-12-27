@@ -8,6 +8,7 @@
     word2vec -> ELMo -> BERT
     《统计学习方法》看原理，做例题
     评估方法：precision,recall
+### 《统计学习方法》
 
 
 ### 统计学知识点复习
